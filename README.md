@@ -44,10 +44,7 @@
 
 ## 🏆 Achievements
 
-🏅 IEEE Conference Presentation (2025)  
-📄 Paper under review  
-☁️ AWS Cloud Technical Essentials  
-🤖 Generative AI with LLMs (deeplearning.ai)  
+🏅 Published research paper in IEEE Conference (2025)  
 🧠 Deep Learning Specialization  
 💙 ServiceNow Women Code to Win Finalist  
 🥇 5th Place — CodeWar Hackathon  
