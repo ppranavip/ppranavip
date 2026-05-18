@@ -1,5 +1,5 @@
 <h1>✨ Hi 👋, I'm Pranavi Pabbisetty ✨</h1>
-<h3>🚀 Associate Software Engineer @ ServiceNow | MS AI @ UT Austin</h3>
+<h3>🚀 ServiceNow | UT Austin | VIT-AP</h3>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=36BCF7&center=false&vCenter=true&width=900&lines=IC1+at+ServiceNow!;Building+the+Modern+Experiences;Full-Stack+Engineer+%7C+ML+Engineer;Always+Learning+%F0%9F%9A%80" />
@@ -26,6 +26,9 @@
 ## 🔗 Connect With Me
 
 <p>
+  <a href="https://pranavis-portfolio-6cvcvh5.gamma.site/">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/pabbisetty-pranavi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
